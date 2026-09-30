@@ -1,2 +1,1 @@
-# si-regulation-frameworktotheworld
-index_light_no_images.htmlAI_regulation_framework.html
+index_light_no_images.html
